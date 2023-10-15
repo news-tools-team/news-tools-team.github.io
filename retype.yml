@@ -16,5 +16,8 @@ locale: ru
 serve:
   host: 127.0.0.1
   port: 5005
+edit:
+  repo: "https://github.com/news-tools-team/news-tools-team.github.io"
+  label: Редактировать
 footer:
   copyright: "&copy; {{ year }}. Все права защищены."
