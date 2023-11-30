@@ -1,6 +1,6 @@
 ---
 label: Changelog
-order: 100
+order: 97
 icon: log-24
 layout: default
 ---
