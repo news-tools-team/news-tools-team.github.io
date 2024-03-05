@@ -6,3 +6,7 @@ layout: default
 route: /discord-guidelines
 ---
 # Правила Discord сервера
+
+=== ## Глава 1 — общие положения
+123
+===
