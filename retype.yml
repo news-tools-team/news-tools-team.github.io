@@ -3,7 +3,7 @@ output: .retype
 url: https://docs.news-tools.ru/
 branding:
   title: News Tools
-  label: v1.3
+  label: v1.4
   logo: static/logo.png
   logoDark: static/logoDark.png
 favicon: static/favicon.ico
